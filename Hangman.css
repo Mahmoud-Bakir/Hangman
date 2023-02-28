@@ -1,0 +1,24 @@
+body,html{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(223, 101, 101);
+}
+h1{
+    color: white;
+    font-size: 35px;
+    font-family:cursive;
+    text-align: center;
+}
+.alive{ 
+    margin-left: 42%;
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    background-image: url(../Hangman/assets/alive.png);
+    height: 200px;
+    width: 200px;
+    background-repeat: no-repeat;
+
+}

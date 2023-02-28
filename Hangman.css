@@ -6,6 +6,7 @@ body{
     background-color: rgb(223, 101, 101);
 }
 h1{
+    margin-top: 20%;
     color: white;
     font-size: 35px;
     font-family:cursive;
